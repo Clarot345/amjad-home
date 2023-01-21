@@ -1,0 +1,8 @@
+#games-button{
+  border: none;
+  background-color: blue;
+  color: white;
+  border-radius: 80px;
+  height: 60px;
+  width: 100px;
+}
